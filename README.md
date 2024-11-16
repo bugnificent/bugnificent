@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Velespit</h1>
 <h3 align="center">Software Engineer In Test</h3>
 
-<img src="https://tenor.com/bKQ0S.gif" width="850" height="468" />
+<img src="https://media1.tenor.com/m/SfbSqMeOrVoAAAAC/iamtheonewhogetstodecide-escanor.gif" width="850" height="468" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velespitt&label=Profile%20views&color=0e75b6&style=flat" alt="velespitt" /> </p>
 
