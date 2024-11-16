@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Velespit</h1>
 <h3 align="center">Software Engineer In Test</h3>
 
+<img src="https://tenor.com/bKQ0S.gif" width="850" height="468" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velespitt&label=Profile%20views&color=0e75b6&style=flat" alt="velespitt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velespitt" alt="velespitt" /></a> </p>
@@ -9,7 +11,7 @@
 
 - 💻 Working as Tech & Support
 
-- 👨‍💻 STuDEnT for **CYDEO**
+- 👨‍💻 STuDEnT for *CYDEO*
 
 - 📧 Write me (deactive atm) *yusuf@yusufasik.com*
 
