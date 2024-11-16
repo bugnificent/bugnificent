@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
-- 🔭 Working as Tech & Support in **Hosting Company**
+- 💻 Working as Tech & Support
 
-- 🌱 STuDEnT for **Cydeo**
+- 👨‍💻 STuDEnT for **CYDEO**
 
-- 📫 How to reach me(deactive atm) **yusuf@yusufasik.com**
+- 📧 Write me (deactive atm) *yusuf@yusufasik.com*
 
-- ⚡ You know where testcanor came from... **Lion Sin of Pride.**
-
+- ☀️ You know where testcanor came from... *Lion Sin of Pride.*
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/testcanor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="testcanor" height="30" width="40" /></a>
