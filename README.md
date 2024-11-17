@@ -1,6 +1,6 @@
 <img src="https://media1.tenor.com/m/SfbSqMeOrVoAAAAC/iamtheonewhogetstodecide-escanor.gif" width="850" height="468" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3500&pause=500&color=00BCF7&width=435&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3500&pause=500&color=00BCF7&width=500&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velespitt&label=Profile%20views&color=0e75b6&style=flat" alt="velespitt" /> </p>
