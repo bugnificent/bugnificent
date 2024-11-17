@@ -1,5 +1,7 @@
 <img src="https://media1.tenor.com/m/SfbSqMeOrVoAAAAC/iamtheonewhogetstodecide-escanor.gif" width="850" height="468" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&width=435&lines=I'm+SDET;I'm+QA+Engineer;I'm+Automation+Engineer;I'm+Freelancer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velespitt&label=Profile%20views&color=0e75b6&style=flat" alt="velespitt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velespitt" alt="velespitt" /></a> </p>
