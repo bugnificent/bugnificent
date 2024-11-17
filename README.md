@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&width=435&lines=I'm+SDET;I'm+QA+Engineer;I'm+Automation+Engineer;I'm+Freelancer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velespitt&label=Profile%20views&color=0e75b6&style=flat" alt="velespitt" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velespitt" alt="velespitt" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=velespitt&label=Profile%20views&color=0e75b6&style=flat" alt="velespitt" /> </p>
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
 - 💻 Working as Tech & Support
