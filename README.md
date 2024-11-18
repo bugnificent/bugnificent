@@ -63,7 +63,7 @@
     <img src="https://skillicons.dev/icons?i=notion,sublime"/>
   </a>
 </p>
-<h2>Good Bye</h2>
+<h2>Thanks for Stopping By</h2>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="333" >
 <br>
 
