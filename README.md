@@ -64,6 +64,7 @@
   </a>
 </p>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br>
 
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velespitt&" alt="velespitt" /></p>
