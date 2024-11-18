@@ -24,7 +24,7 @@
 <h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,postman,gherkin,jenkins,jest,maven"/>
+    <img src="https://skillicons.dev/icons?i=selenium,postman,gherkin,jenkins,jest,maven,vercel"/>
   </a>
 </p>
 
