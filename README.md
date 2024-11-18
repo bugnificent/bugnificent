@@ -24,7 +24,7 @@
 <h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,postman,gherkin,jenkins,jest,maven,vercel"/>
+    <img src="https://skillicons.dev/icons?i=selenium,postman,gherkin,jenkins,jest,maven"/>
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git"/>
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git,vercel"/>
   </a>
 </p>
 
