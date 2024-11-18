@@ -35,17 +35,17 @@
   </a>
 </p>
 
-<h3 align="left">Database</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  </a>
-</p>
-
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git,vercel"/>
+  </a>
+</p>
+
+<h3 align="left">Database</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
