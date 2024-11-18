@@ -25,7 +25,7 @@
 <h3 align="left">Software and tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,idea,git,postman,gherkin,vscode,html,jenkins,maven,kubernetes,notion,selenium,subline"/>
+    <img src="https://skillicons.dev/icons?i=idea,git,postman,gherkin,vscode,html,jenkins,maven,kubernetes,notion,selenium,subline"/>
   </a>
 </p>
 
