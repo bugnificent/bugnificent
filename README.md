@@ -36,13 +36,6 @@
   </a>
 </p>
 
-<h3 align="left">IDE</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode"/>
-  </a>
-</p>
-
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -54,6 +47,13 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git"/>
+  </a>
+</p>
+
+<h3 align="left">IDE</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode"/>
   </a>
 </p>
 
