@@ -22,10 +22,25 @@
 <a href="https://linkedin.com/in/yusuf-j-9b515a285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-j-9b515a285/" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Software and tools</h3>
+<h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,git,postman,gherkin,vscode,html,jenkins,maven,kubernetes,notion,selenium,subline"/>
+    <img src="https://skillicons.dev/icons?i=selenium,postman,gherkin,jenkins,jest,maven"/>
+  </a>
+</p>
+
+<br>
+<h3 align="left">IDE</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode"/>
+  </a>
+</p>
+<br>
+<h3 align="left">Utility Apps</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,subline"/>
   </a>
 </p>
 
@@ -36,10 +51,17 @@
   </a>
 </p>
 <br>
-<h3 align="left">Databases and cloud hosting</h3>
+<h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+<br>
+<h3 align="left">DevOps</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git"/>
   </a>
 </p>
 
