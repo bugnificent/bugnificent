@@ -69,9 +69,8 @@
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velespitt&" alt="velespitt" /></p>
-<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velespitt" alt="velespitt" /></a> </p>
-
+<br>
 <!--
 **Velespitt/Velespitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
