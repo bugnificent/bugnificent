@@ -17,8 +17,8 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/testcanor" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="testcanor" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/yusuf-j-9b515a285/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="yusuf-j-9b515a285/" height="50" width="50" /></a>
+<a href="https://twitter.com/testcanor" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="testcanor" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/yusuf-j-9b515a285/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="yusuf-j-9b515a285/" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Software and Tools</h3>
