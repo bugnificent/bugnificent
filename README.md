@@ -29,24 +29,17 @@
   </a>
 </p>
 
-<h3 align="left">IDE</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode"/>
-  </a>
-</p>
-
-<h3 align="left">Utility</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,sublime"/>
-  </a>
-</p>
-
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,ts,cs,py,html" />
+  </a>
+</p>
+
+<h3 align="left">IDE</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode"/>
   </a>
 </p>
 
@@ -61,6 +54,13 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git"/>
+  </a>
+</p>
+
+<h3 align="left">Utility</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,sublime"/>
   </a>
 </p>
 
