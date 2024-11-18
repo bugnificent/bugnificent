@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,cs,py,html" />
   </a>
 </p>
-
+<br>
 <h3 align="left">Databases and cloud hosting</h3>
 <p align="left">
   <a href="https://skillicons.dev">
