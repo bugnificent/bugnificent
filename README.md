@@ -29,14 +29,13 @@
   </a>
 </p>
 
-<br>
 <h3 align="left">IDE</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode"/>
   </a>
 </p>
-<br>
+
 <h3 align="left">Utility Apps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -50,14 +49,14 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,cs,py,html" />
   </a>
 </p>
-<br>
+
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
-<br>
+
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
