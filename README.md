@@ -70,7 +70,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-velespitts-projects.vercel.app?user=velespitt&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velespitt" alt="velespitt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="velespitt" /></a> </p>
 
 
 <!--
