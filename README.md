@@ -70,7 +70,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-velespitts-projects.vercel.app?user=velespitt&theme=dark&hide_border=true&column=-1)](https://git.io/streak-stats)
 
-![](https://github-trophies.vercel.app/?username=velespitt)
+[![trophy](https://github-trophies.vercel.app/?username=velespitt)](https://github.com/velespitt/github-trophies)
 
 <!--
 **Velespitt/Velespitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
