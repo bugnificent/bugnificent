@@ -71,6 +71,8 @@
 [![GitHub Streak](https://github-readme-streak-stats-velespitts-projects.vercel.app?user=velespitt&theme=dark&hide_border=true&column=-1)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=velespitt&theme=onedark&rank=-?&no-bg=true&rank=-C)](https://github.com/velespitt/github-profile-trophy)
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Velespitt/Velespitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
