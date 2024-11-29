@@ -27,21 +27,28 @@
 <h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,postman,gherkin,jenkins,jest,maven"/>
+    <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin,jenkins,jest,maven"/>
   </a>
 </p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,py,html" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css" />
   </a>
 </p>
 
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git,vercel"/>
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git,debian,vercel"/>
+  </a>
+</p>
+
+<h3 align="left">Utility</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,obsidian,sublime,powershell"/>
   </a>
 </p>
 
@@ -59,12 +66,13 @@
   </a>
 </p>
 
-<h3 align="left">Utility</h3>
+<h3 align="left">OS</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,obsidian,sublime"/>
+    <img src="https://skillicons.dev/icons?i=linux,windows"/>
   </a>
 </p>
+
 <h2>Thanks for Stopping By</h2>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="333" height="263" >
 <br>
