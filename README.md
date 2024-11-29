@@ -62,7 +62,7 @@
 <h3 align="left">Utility</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,sublime"/>
+    <img src="https://skillicons.dev/icons?i=notion,obsidian,sublime"/>
   </a>
 </p>
 <h2>Thanks for Stopping By</h2>
