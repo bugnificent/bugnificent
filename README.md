@@ -17,6 +17,8 @@
 - 📧 Write me (deactive atm) *yusuf@yusufasik.com*
 
 - ☀️ You know where testcanor came from... *Lion Sin of Pride.*
+
+- 📄 Know me better with [My Resume](https://read.cv/velespit) 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
