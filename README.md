@@ -14,6 +14,8 @@
 
 - 👨‍💻 STuDEnT for *CYDEO*
 
+- Check my website (not hosted rn) *(https://yusufasik.com)*
+
 - 📧 Write me (deactive atm) *yusuf@yusufasik.com*
 
 - 📄 Know me better with [My Resume](https://read.cv/velespit) 
