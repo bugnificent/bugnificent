@@ -16,9 +16,9 @@
 
 - 🖥️ Check out *[My Website](https://yusufasik.com)* 
 
-- 📧 Write me (deactive atm) *yusuf@yusufasik.com*
+- 📄 Know me better with *[My Resume](https://read.cv/velespit)*
 
-- 📄 Know me better with *[My Resume](https://read.cv/velespit)* 
+- 📧 Write me (deactive atm) *yusuf@yusufasik.com*
 
 - ☀️ You know where testcanor came from... *Lion Sin of Pride.*
 
