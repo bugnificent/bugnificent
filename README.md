@@ -14,11 +14,11 @@
 
 - 👨‍💻 STuDEnT for *CYDEO*
 
-- 🖥️ Check out my website (not hosted rn) *https://yusufasik.com*
+- 🖥️ Check out *[My Website](https://read.cv/velespit)* 
 
 - 📧 Write me (deactive atm) *yusuf@yusufasik.com*
 
-- 📄 Know me better with *[My Resume](https://read.cv/velespit)* 
+- 📄 Know me better with 
 
 - ☀️ You know where testcanor came from... *Lion Sin of Pride.*
 
