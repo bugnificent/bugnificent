@@ -14,7 +14,7 @@
 
 - 👨‍💻 STuDEnT for *CYDEO*
 
-- 🖥️ Check out my website (not hosted rn) *(https://yusufasik.com)*
+- 🖥️ Check out my website (not hosted rn) *https://yusufasik.com*
 
 - 📧 Write me (deactive atm) *yusuf@yusufasik.com*
 
