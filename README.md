@@ -47,7 +47,7 @@
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,git,debian,vercel"/>
+    <img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,git,debian,vercel"/>
   </a>
 </p>
 
@@ -75,7 +75,7 @@
 <h3 align="left">OS</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux"/>
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch"/>
   </a>
 </p>
 
