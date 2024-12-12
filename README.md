@@ -37,13 +37,6 @@
   </a>
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css" />
-  </a>
-</p>
-
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -51,10 +44,24 @@
   </a>
 </p>
 
+<h3 align="left">Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css" />
+  </a>
+</p>
+
 <h3 align="left">Utility</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=notion,obsidian,sublime,powershell"/>
+  </a>
+</p>
+
+<h3 align="left">OS</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch"/>
   </a>
 </p>
 
@@ -69,13 +76,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,cursor"/>
-  </a>
-</p>
-
-<h3 align="left">OS</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch"/>
   </a>
 </p>
 
