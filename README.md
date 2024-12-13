@@ -5,7 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvelespitt&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![wakatime](https://wakatime.com/badge/user/f99d7866-1d07-4ef1-a2c2-8207361ca02e.svg)](https://wakatime.com/@f99d7866-1d07-4ef1-a2c2-8207361ca02e)
-
 <h2> About Me</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
