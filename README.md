@@ -32,7 +32,7 @@
 <h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin,jenkins,jest,maven"/>
+    <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin,jenkins,maven,jest"/>
   </a>
 </p>
 
