@@ -86,7 +86,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-velespitts-projects.vercel.app?user=velespitt&theme=dark&hide_border=true&column=-1)](https://git.io/streak-stats)
 
-[![trophy](https://github-trophies.vercel.app/?username=velespitt&theme=onedark&no-bg=true&rank=-?,-C)](https://github.com/velespitt/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=velespitt&theme=onedark)](https://github.com/velespitt/github-trophies)
 
  <!--START_SECTION:waka-->
 
