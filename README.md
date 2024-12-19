@@ -84,7 +84,7 @@
 
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=velespitt&theme=dark&hide_border=true&column=-1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=velespitt&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 [![trophy](https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits)](https://github.com/velespitt/github-trophies)
 
