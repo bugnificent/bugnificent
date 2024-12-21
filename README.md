@@ -79,7 +79,7 @@
 </p>
 
 <h2>Thanks for Stopping By</h2>
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="333" height="263" >
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="333" height="263" >
 <br>
 
 [![trophy](https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits)](https://github.com/velespitt/github-trophies)
