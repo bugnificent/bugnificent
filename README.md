@@ -82,7 +82,7 @@
 
 [![trophy](https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits)](https://github.com/velespitt/github-trophies)
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="450" height="263" >
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="450" height="350" >
 <br>
 
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
