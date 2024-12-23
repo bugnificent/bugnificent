@@ -22,7 +22,6 @@
 - ☀️ You know where testcanor came from... *Lion Sin of Pride.*
 
 
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/testcanor" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="testcanor" height="100" width="100" /></a>
@@ -83,6 +82,7 @@
 [![trophy](https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits)](https://github.com/velespitt/github-trophies)
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="450" height="250" >
+
 <br>
 
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
