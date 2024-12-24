@@ -66,7 +66,7 @@
 <h3 align="left">SQL</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mssql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,ms,postgres" />
   </a>
 </p>
 
