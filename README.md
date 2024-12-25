@@ -59,7 +59,7 @@
 <h3 align="left">OS</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch"/>
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
   </a>
 </p>
 
