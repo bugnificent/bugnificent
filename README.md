@@ -32,7 +32,7 @@
 
 <h3 align="left">Software and Tools</h3>
 <p align="left">
-  <a href="https://devicon.dev">
+  <a href="https://devicons.dev">
     <img src="https://skillicons.dev/icons?i=selenium,cypress,gherkin,jenkins,maven,jest,postman"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="60" height="55" />
   </a>
@@ -41,7 +41,7 @@
 
 <h3 align="left">DevOps</h3>
 <p align="left">
-  <a href="https://devicon.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,git,debian,vercel"/>
   </a>
 </p>
