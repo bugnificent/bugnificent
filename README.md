@@ -32,7 +32,7 @@
 
 <h3 align="left">Software and Tools</h3>
 <p align="left">
-  <a href="https://devicons.dev">
+  <a href="https://devicon.dev">
     <img src="https://skillicons.dev/icons?i=selenium,cypress,gherkin,jenkins,maven,jest,postman"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="60" height="55" />
   </a>
