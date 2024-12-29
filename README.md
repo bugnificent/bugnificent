@@ -34,7 +34,7 @@
 <p align="left">
   <a href="https://devicon.dev">
     <img src="https://skillicons.dev/icons?i=selenium,cypress,gherkin,jenkins,maven,jest,postman"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="100" height="100" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="50" height="50" />
   </a>
 </p>
  
