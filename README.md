@@ -32,15 +32,15 @@
 
 <h3 align="left">Software and Tools</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://devicon.dev">
     <img src="https://skillicons.dev/icons?i=selenium,cypress,gherkin,jenkins,maven,jest,postman"/>
   </a>
 </p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="100" height="100" />
 
 <h3 align="left">DevOps</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://devicon.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,git,debian,vercel"/>
   </a>
 </p>
