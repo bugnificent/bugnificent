@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/nanami-jujutsu-kaisen-daddy-gif-11012498467213152606" width="850" height="468" />
+<img src="https://media1.tenor.com/m/mNRBAlvGEV4AAAAd/nanami-jujutsu-kaisen.gif" width="850" height="468" />
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
