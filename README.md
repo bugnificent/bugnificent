@@ -101,7 +101,7 @@
   </div>
   
   <!-- Gojo -->
-  <div>
+  <div style="margin-left: 20;">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" 
          alt="Eklenmek İstenen GIF" 
          width="266" height="480">
