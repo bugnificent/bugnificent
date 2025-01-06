@@ -101,12 +101,14 @@
   </div>
   
   <!-- Gojo -->
-  <div style="margin-left: 20;">
+  <div>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" 
          alt="Eklenmek İstenen GIF" 
          width="266" height="480">
   </div>
 </div>
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="200" height="100">
 
 <br>
 
