@@ -93,7 +93,7 @@
   <!-- GitHub Trophies Widget -->
   <div style="margin-right: 20;">
     <a href="https://github.com/velespitt/github-trophies">
-      <img src="https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" alt="GitHub Trophies">
+      <img src="https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" alt="GitHub Trophies" style="width: 450; height: 110;">
     </a>
   </div>
   
