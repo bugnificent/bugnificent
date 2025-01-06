@@ -1,5 +1,4 @@
-<div class="tenor-gif-embed" data-postid="18336350078137497742" data-share-method="host" data-aspect-ratio="0.564257" data-width="100%"><a href="https://tenor.com/view/satoru-gojo-satoru-watching-satoru-blue-eye-gif-18336350078137497742">Satoru Gojo Satoru Watching GIF</a>from <a href="https://tenor.com/search/satoru+gojo-gifs">Satoru Gojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<img src="https://tenor.com/v0GQbYVnb98.gif" width="850" height="468" />
+<img src="https://tenor.com/view/satoru-gojo-satoru-watching-satoru-blue-eye-gif-18336350078137497742" width="850" height="468" />
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
