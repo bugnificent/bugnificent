@@ -89,20 +89,12 @@
 
 <h2>Thanks for Stopping By</h2>
 
-<div style="display: flex; align-items: flex-start;">
-  <!-- GitHub Trophies Widget -->
-  <div style="margin-right: 20px;">
-    <a href="https://github.com/velespitt/github-trophies">
-      <img src="https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" alt="GitHub Trophies" style="width: 550px; height: 110px;">
-    </a>
-  </div>
+<div>
+  <!-- Sol Taraf: Trophies -->
+  <img src="https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" width="460" height="110" style="display: inline-block; vertical-align: top;" />
   
-  <!-- Gojo Satoru -->
-  <div>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" 
-         alt="GIF" 
-         width="266" height="480">
-  </div>
+  <!-- Sağ Taraf: Görsel -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" width="266" height="480" style="display: inline-block; vertical-align: top;" />
 </div>
 
 <br>
