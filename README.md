@@ -97,11 +97,11 @@
     <a href="https://github.com/velespitt/github-trophies">
       <img src="https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" 
            alt="GitHub Trophies" 
-           width="450" height="110">
+           width="550" height="110">
     </a>
   </div>
   
-  <!-- Gojo -->
+  <!-- Animated GIF -->
   <div>
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
   </div>
