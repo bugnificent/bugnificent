@@ -89,6 +89,7 @@
 
 <h2>Thanks for Stopping By</h2>
 
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" height="250">
 
 <div style="display: flex; align-items: flex-start;">
   <!-- GitHub Trophies Widget -->
@@ -108,7 +109,6 @@
   </div>
 </div>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="200" height="100">
 
 <br>
 
