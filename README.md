@@ -96,7 +96,7 @@
     <a href="https://github.com/velespitt/github-trophies">
       <img src="https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" 
            alt="GitHub Trophies" 
-           style="width: 460px; height: 110px;">
+           width="660" height="110">
     </a>
   </div>
   
