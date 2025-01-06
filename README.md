@@ -101,7 +101,7 @@
   <div>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" 
          alt="GIF" 
-         width="266" height="480">
+         width="296" height="480">
   </div>
 </div>
 
