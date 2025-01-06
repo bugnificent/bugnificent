@@ -3,11 +3,11 @@
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" height="300" >
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvelespitt&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![wakatime](https://wakatime.com/badge/user/f99d7866-1d07-4ef1-a2c2-8207361ca02e.svg)](https://wakatime.com/@f99d7866-1d07-4ef1-a2c2-8207361ca02e)
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=500&color=F7C907FF&width=1020&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22;-+Carl+Sagan)](https://git.io/typing-svg)
 
