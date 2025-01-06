@@ -1,6 +1,6 @@
 <div>
   
-<img src="https://media1.tenor.com/m/mNRBAlvGEV4AAAAd/nanami-jujutsu-kaisen.gif" width="500" height="300" >
+<img src="https://media1.tenor.com/m/mNRBAlvGEV4AAAAd/nanami-jujutsu-kaisen.gif" width="800" height="300" >
 
 </div>
 
