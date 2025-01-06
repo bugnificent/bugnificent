@@ -1,7 +1,7 @@
 <div>
 <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" width="266" height="480" />
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500"></div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="500"></div>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=500&color=F7C907FF&width=1020&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22;-+Carl+Sagan)](https://git.io/typing-svg)
