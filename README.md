@@ -35,7 +35,7 @@
 <a href="https://linkedin.com/in/velespit/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="yusuf-j-9b515a285/" height="100" width="100" /></a>
 </p>
 
-<h3 align="left">Software and Tools</h3>
+<h3 align="left">Automation & Test</h3>
 <p align="left">
   <a href="https://devicon.dev">
     <img src="https://skillicons.dev/icons?i=selenium,cypress,gherkin,jenkins,maven,jest,postman"/>
