@@ -1,8 +1,4 @@
-<div>
-  
 <img src="https://media1.tenor.com/m/mNRBAlvGEV4AAAAd/nanami-jujutsu-kaisen.gif" width="700" height="350" >
-
-</div>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
@@ -118,4 +114,3 @@
  <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
