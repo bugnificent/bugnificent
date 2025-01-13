@@ -107,9 +107,8 @@
 
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats-wd48-ea73dlwgs-velespitts-projects.vercel.app?user=velespitt&theme=dark&hide_border=true&locale=tr)](https://git.io/streak-stats)
--->
+
+[![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=velespitt&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
  <!--START_SECTION:waka-->
 
