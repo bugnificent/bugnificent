@@ -83,13 +83,12 @@
   </a>
 </p>
 
-
-
 <h2>Thanks for Stopping By</h2>
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" width="266" height="455">
 
 <div style="display: flex; align-items: flex-start;">
+  
   <!-- GitHub Trophies Widget -->
   <div style="margin-right: 20;">
     <a href="https://github.com/velespitt/github-trophies">
@@ -108,9 +107,7 @@
 
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" align ="right">
-
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" align ="left">
 
  <!--START_SECTION:waka-->
 
