@@ -82,9 +82,11 @@
     <img src="https://skillicons.dev/icons?i=idea,vscode,cursor"/>
   </a>
 </p>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" align ="right">
+
 <!-- Animated GIF -->
   <div>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" align ="right">
   </div>
 <h2>Thanks for Stopping By</h2>
 
