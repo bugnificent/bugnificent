@@ -99,11 +99,8 @@
     </a>
   </div>
   
-  <!-- Animated GIF -->
-  <div>
-    [![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=velespitt&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-  </div>
+  <!-- GitHub Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=velespitt&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
