@@ -98,12 +98,13 @@
     </a>
   </div>
   
+<p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
+
   <!-- GitHub Streak Stats -->
 [![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=velespitt&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
-<p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 <!--Animated Gif
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" align ="left">
 -->
