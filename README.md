@@ -20,7 +20,7 @@
 
 - 📄 Know me better with *[My Resume](https://cv.yusufasik.com/)*
 
-- 📧 Write me *yusuf@yusufasik.com*
+- 📧 Write me *contact@yusufasik.com*
 
 - ☀️ You know where testcanor came from... *Lion Sin of Pride.*
 
