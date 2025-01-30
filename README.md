@@ -101,7 +101,7 @@
 <p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
   <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats-opal-three.vercel.app?user=velespitt&theme=dark&hide_border=true)]
+![GitHub Streak](https://github-readme-streak-stats-opal-three.vercel.app?user=velespitt&theme=dark&hide_border=true)
 </div>
 
 <!--Animated Gif
