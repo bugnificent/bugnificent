@@ -22,8 +22,6 @@
 
 - 📧 Write me *contact@yusufasik.com*
 
-- ☀️ You know where testcanor came from... *Lion Sin of Pride.*
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
