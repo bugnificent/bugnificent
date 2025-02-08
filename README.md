@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/testcanor" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="testcanor" height="100" width="100" /></a>
+<a href="https://twitter.com/bugnatis" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="testcanor" height="100" width="100" /></a>
 <a href="https://linkedin.com/in/velespit/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="yusuf-j-9b515a285/" height="100" width="100" /></a>
 </p>
 
@@ -89,17 +89,17 @@
   
   <!-- GitHub Trophies Widget -->
   <div style="margin-right: 20;">
-    <a href="https://github.com/velespitt/github-trophies">
-      <img src="https://github-trophies.vercel.app/?username=velespitt&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" 
+    <a href="https://github.com/bugnatis/github-trophies">
+      <img src="https://github-trophies.vercel.app/?username=bugnatis&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" 
            alt="GitHub Trophies" 
            width="570" height="110">
     </a>
   </div>
   
-<p align="left"> <a href="https://twitter.com/testcanor" target="blank"><img src="https://img.shields.io/twitter/follow/testcanor?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bugnatis" target="blank"><img src="https://img.shields.io/twitter/follow/bugnatis?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
   <!-- GitHub Streak Stats -->
-  ![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=velespitt&theme=dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=bugnatis&theme=dark&hide_border=true)
 </div>
 
 <!--Animated Gif
