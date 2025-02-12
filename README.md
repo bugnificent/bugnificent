@@ -18,7 +18,7 @@
 
 - 🖥️ Check out *[My Website](https://yusufasik.com)* 
 
-- 📄 Know me better with *[My Resume](https://cv.yusufasik.com/)*
+- 📄 Know me better with *[My Resume](https://yusufasik.com/#resume)*
 
 - 📧 Write me *contact@yusufasik.com*
 
