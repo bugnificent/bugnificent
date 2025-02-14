@@ -89,8 +89,8 @@
   
   <!-- GitHub Trophies Widget -->
   <div style="margin-right: 20;">
-    <a href="https://github.com/bugnatis/github-trophies">
-      <img src="https://github-trophies.vercel.app/?username=bugnatis&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" 
+    <a href="https://github.com/bugnificent/github-trophies">
+      <img src="https://github-trophies.vercel.app/?username=bugnificent&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" 
            alt="GitHub Trophies" 
            width="570" height="110">
     </a>
@@ -99,7 +99,7 @@
 <p align="left"> <a href="https://twitter.com/bugnatis" target="blank"><img src="https://img.shields.io/twitter/follow/bugnatis?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
 
   <!-- GitHub Streak Stats -->
-  ![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=bugnatis&theme=dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=bugnificent&theme=dark&hide_border=true)
 </div>
 
 <!--Animated Gif
