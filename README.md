@@ -14,8 +14,6 @@
 
 - 💻 Working as Hosting Expert
 
-- 👨‍💻 STuDEnT for *CYDEO*
-
 - 🖥️ Check out *[My Website](https://yusufasik.com)* 
 
 - 📄 Know me better with *[My Resume](https://cv.yusufasik.com)*
