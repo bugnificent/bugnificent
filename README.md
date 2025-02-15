@@ -90,7 +90,7 @@
   <!-- GitHub Trophies Widget -->
   <div style="margin-right: 20;">
     <a href="https://github.com/bugnificent/github-trophies">
-      <img src="https://github-trophies.vercel.app/?username=bugnificent&theme=onedark&title=MultiLanguage,LongTimeUser,Commits" 
+      <img src="https://github-trophies.vercel.app/?username=bugnificent&theme=onedark&title=MultiLanguage,LongTimeUser,Commits,PullRequest,Repositories" 
            alt="GitHub Trophies" 
            width="570" height="110">
     </a>
