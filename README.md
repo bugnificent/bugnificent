@@ -39,7 +39,7 @@
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,grafana,kubernetes,docker,git,vercel"/>
+    <img src="https://skillicons.dev/icons?i=azure,vercel,kubernetes,docker,git,grafana"/>
   </a>
 </p>
 
