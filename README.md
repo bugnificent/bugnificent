@@ -14,7 +14,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
-- 💻 Working as Hosting Expert
+- 💻 Working as Web Hosting Expert
 
 - 🖥️ Check out *[My Website](https://yusufasik.com)* 
 
