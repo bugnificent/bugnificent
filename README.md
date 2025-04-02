@@ -10,10 +10,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/f99d7866-1d07-4ef1-a2c2-8207361ca02e.svg)](https://wakatime.com/@f99d7866-1d07-4ef1-a2c2-8207361ca02e)
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@bugnificent/30-nites-of-code)  
+## #30NitesOfCode: 
   ![@bugnificent #30NitesOfCode](https://www.codedex.io/api/petStatus?user=bugnificent)
-
 <h2> About Me</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
