@@ -23,7 +23,7 @@
 
 - 📄 Know me better with *[My Resume](https://cv.yusufasik.com)*
 
-- 📧 Write me *contact@yusufasik.com*
+- 📧 Write me [contact@yusufasik.com](mailto:contact@yusufasik.com)
 
 
 <h3 align="left">Connect with me:</h3>
