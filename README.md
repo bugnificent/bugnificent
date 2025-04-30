@@ -1,5 +1,6 @@
-<img src="https://github.com/user-attachments/assets/1ed6be08-60d3-4f66-9847-5c6e068c24a9" width="700" height="350">
+<img src="https://github.com/user-attachments/assets/67af19eb-61e0-4342-bf35-acb6610d8986" width="700" height="350">
 
+![interstellar-edurance](https://github.com/user-attachments/assets/67af19eb-61e0-4342-bf35-acb6610d8986)
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
