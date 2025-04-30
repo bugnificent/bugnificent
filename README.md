@@ -99,7 +99,7 @@
     </a>
   </div>
   
-<p align="left"> <a href="https://twitter.com/bugnificentt" target="blank"><img src="https://img.shields.io/twitter/follow/bugnificent?logo=twitter&style=for-the-badge" alt="testcanor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bugnificentt" target="blank"><img src="https://img.shields.io/twitter/follow/bugnificent?logo=twitter&style=for-the-badge" alt="bugnificentt" /></a> </p>
 
   <!-- GitHub Streak Stats -->
   ![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=bugnificent&theme=dark&hide_border=true)
