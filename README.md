@@ -1,7 +1,5 @@
 <img src="https://github.com/user-attachments/assets/67af19eb-61e0-4342-bf35-acb6610d8986" width="700" height="350">
 
-![interstellar-edurance](https://github.com/user-attachments/assets/67af19eb-61e0-4342-bf35-acb6610d8986)
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=500&color=F7C907FF&width=1020&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22;-+Carl+Sagan)](https://git.io/typing-svg)
