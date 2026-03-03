@@ -67,17 +67,17 @@
   </a>
 </p>
 
-<h3 align="left">OS</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch"/>
-  </a>
-</p>
-
 <h3 align="left">IDE</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode"/>
+  </a>
+</p>
+
+<h3 align="left">OS</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch"/>
   </a>
 </p>
 
