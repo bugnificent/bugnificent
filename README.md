@@ -3,9 +3,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=500&color=F7C907FF&width=1020&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22;-+Carl+Sagan)](https://git.io/typing-svg)
-
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvelespitt&count_bg=%230386D4&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+-->
 [![wakatime](https://wakatime.com/badge/user/f99d7866-1d07-4ef1-a2c2-8207361ca02e.svg)](https://wakatime.com/@f99d7866-1d07-4ef1-a2c2-8207361ca02e)
 
 ## #30NitesOfCode: 
@@ -41,7 +41,7 @@
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,grafana,kubernetes,docker,git,vercel"/>
+    <img src="https://skillicons.dev/icons?i=azure,grafana,kubernetes,docker,git,githubactions"/>
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 <h3 align="left">Utility</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,sublime,powershell"/>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,jest"/>
   </a>
 </p>
 
@@ -70,14 +70,14 @@
 <h3 align="left">OS</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=arch"/>
   </a>
 </p>
 
 <h3 align="left">IDE</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,cursor"/>
+    <img src="https://skillicons.dev/icons?i=idea,vscode"/>
   </a>
 </p>
 
