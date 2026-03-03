@@ -83,7 +83,7 @@
 
 <h2>Thanks for Stopping By</h2>
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" width="266" height="360">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" width="266" height="420">
 
 <div style="display: flex; align-items: flex-start;">
   
@@ -95,18 +95,16 @@
            width="570" height="110">
     </a>
   </div>
-  
-<p align="left"> <a href="https://twitter.com/bugnificentt" target="blank"><img src="https://img.shields.io/twitter/follow/bugnificent?logo=twitter&style=for-the-badge" alt="bugnificentt" /></a> </p>
-
-  <!-- GitHub Streak Stats 
+<!-- GitHub Streak Stats 
   ![GitHub Streak](https://github-readme-streak-stats-wd48.vercel.app?user=bugnificent&theme=dark&hide_border=true)
-  -->
+-->
 </div>
 
-<!--Animated Gif
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" align ="left">
--->
 
- <!--START_SECTION:waka-->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" style="display: block; margin-bottom: 20px;">
 
-<!--END_SECTION:waka-->
+<p align="left"> 
+    <a href="https://twitter.com/bugnificentt" target="blank">
+        <img src="https://img.shields.io/twitter/follow/bugnificent?logo=twitter&style=for-the-badge" alt="bugnificentt" />
+    </a>
+</p>
