@@ -7,6 +7,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvelespitt&count_bg=%230386D4&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 [![wakatime](https://wakatime.com/badge/user/f99d7866-1d07-4ef1-a2c2-8207361ca02e.svg)](https://wakatime.com/@f99d7866-1d07-4ef1-a2c2-8207361ca02e)
+![playing](https://img.shields.io/badge/playing-warframe-green?style=plastic)
+
 
 ## #30NitesOfCode: 
   ![@bugnificent #30NitesOfCode](https://www.codedex.io/api/petStatus?user=bugnificent)
