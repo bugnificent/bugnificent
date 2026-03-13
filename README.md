@@ -85,7 +85,7 @@
 
 <h2>Thanks for Stopping By</h2>
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xaGVieWZha2RqbXNkODQyZW52eGt2aTdvamtzdTIwaGVwYTc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9BxAoCbeJKGKbjwuD/giphy.gif" width="266" height="415">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk5dXI0Z3NveHBlNGh2amZraGR1d2VlYnNodmVoMGN2cGxmdTQybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeAxKYM3TUjaCr3y0T/giphy.gif" width="266" height="415">
 
 <div style="display: flex; align-items: flex-start;">
   
