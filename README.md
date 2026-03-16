@@ -9,10 +9,6 @@
 [![wakatime](https://wakatime.com/badge/user/f99d7866-1d07-4ef1-a2c2-8207361ca02e.svg)](https://wakatime.com/@f99d7866-1d07-4ef1-a2c2-8207361ca02e)
 ![playing](https://img.shields.io/badge/Playing-WWM-orange?logo=steam)
 
-## 🌐 Join Me on CoderLegion
-
-Check out my articles and community posts on ![CoderLegion!](https://coderlegion.com/cl_badge_logo1.png)
-
 ## #30NitesOfCode: 
   ![@bugnificent #30NitesOfCode](https://www.codedex.io/api/petStatus?user=bugnificent)
 <h2> About Me</h2>
@@ -113,3 +109,7 @@ Check out my articles and community posts on ![CoderLegion!](https://coderlegion
         <img src="https://img.shields.io/twitter/follow/bugnificent?logo=twitter&style=for-the-badge" alt="bugnificentt" />
     </a>
 </p>
+
+## 🌐 Join Me on CoderLegion
+
+Check out my articles and community posts on ![CoderLegion!](https://coderlegion.com/cl_badge_logo1.png)
