@@ -113,12 +113,3 @@
 ## 🌐 Join Me on CoderLegion
 
 Check out my articles and community posts on ![CoderLegion!](https://coderlegion.com/cl_badge_logo1.png)
-
-🚀 Check out my CoderLegion profile & latest post!
-
-🏆 Points: 2.1k | 🎱 Badges: 45 | 👥 Followers: 10 | 📄 Posts: 12
-
-Latest post: "AI in Testing: A Tester's Perspective on the Unavoidable Revolution"
-Read it here: https://coderlegion.com/12952/ai-in-testing-a-testers-perspective-on-the-unavoidable-revolution
-
-View my full profile: https://coderlegion.com/user/bugnificent
