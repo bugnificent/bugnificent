@@ -32,10 +32,8 @@
 
 <h3 align="left">Automation & Test</h3>
 <p align="left">
-  <a href="https://devicon.dev">
     <img src="https://skillicons.dev/icons?i=selenium,gherkin,jenkins,gitlab,maven,postman"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="60" height="55" />
-  </a>
 </p>
  
 
